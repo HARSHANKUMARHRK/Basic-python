@@ -1,2 +1,2 @@
 # Basic-python
-uncomment your need program and run 
+uncomment your needed program and run 
